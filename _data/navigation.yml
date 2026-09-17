@@ -1,0 +1,13 @@
+main:
+  - title: "About"
+    url: /
+  - title: "Research & Publications"
+    url: /publications/
+  - title: "Teaching & Mentoring"
+    url: /teaching/
+  - title: "Projects"
+    url: /projects/
+  - title: "CV"
+    url: /cv/
+  - title: "Contact"
+    url: /contact/

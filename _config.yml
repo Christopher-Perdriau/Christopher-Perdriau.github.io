@@ -1,0 +1,103 @@
+# Site settings
+
+locale: "en-US"
+title: "Christopher Perdriau"
+title_separator: "-"
+name: "Christopher Perdriau"
+description: "PhD candidate in Computer Science (UIUC) researching accessibility and inclusive design in CS education, with a focus on Deaf and Hard-of-Hearing students."
+url: "https://christopher-perdriau.github.io"
+baseurl: ""
+repository: "Christopher-Perdriau/Christopher-Perdriau.github.io"
+logo:
+
+# Theme
+#
+# minimal-mistakes-jekyll, loaded via the remote_theme mechanism so the site
+# builds on GitHub Pages' infrastructure with no local/custom build step.
+# Chosen over academicpages (a minimal-mistakes fork purpose-built for
+# academic sites) because this site's needs -- a publications list, a
+# teaching page, a projects page, a CV page -- are fully covered by
+# minimal-mistakes' standard pages/collections/data-file patterns, without
+# academicpages' extra portfolio/talks collections and BibTeX-import
+# tooling this site doesn't need. Less surface area to maintain.
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "default"
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+include:
+  - _pages
+
+# SEO / social sharing
+twitter:
+  username:
+# Default social-share (Open Graph) image, read by jekyll-seo-tag.
+image: "/assets/images/headshot.jpg"
+social:
+  type: "Person"
+  name: "Christopher Perdriau"
+  links:
+    - "https://github.com/Christopher-Perdriau"
+    - "https://scholar.google.com/citations?user=-cDZEO8AAAAJ&hl=en"
+
+# Author (drives the sidebar profile shown on every page)
+author:
+  name: "Christopher Perdriau"
+  avatar: "/assets/images/headshot.jpg"
+  bio: "PhD candidate, Computer Science, UIUC. Researching accessibility &amp; inclusive design in CS education."
+  location: "Urbana-Champaign, IL"
+  github: "Christopher-Perdriau"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=-cDZEO8AAAAJ&hl=en"
+    - label: "Download CV (PDF)"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/files/cv.pdf"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Christopher-Perdriau"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=-cDZEO8AAAAJ&hl=en"
+
+# Default front matter for every page: single-column layout with the
+# author sidebar, no per-post furniture (comments/share buttons/related
+# posts) that doesn't make sense for a static portfolio site.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "single"
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      toc: false
+
+# Accessibility / performance: keep breadcrumbs and any decorative,
+# non-essential UI chrome off by default to reduce clutter and JS surface.
+breadcrumbs: false
+atom_feed:
+  hide: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - source-materials
+  - README.md
+  - node_modules

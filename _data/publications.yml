@@ -1,0 +1,103 @@
+# Publications, most recent first within each status.
+# Spot-check against Google Scholar before publishing:
+# https://scholar.google.com/citations?user=-cDZEO8AAAAJ&hl=en
+# ("Under review" entries in particular may have since been accepted.)
+
+published:
+  - authors: "C. Perdriau, S. Huffman, A. Watkins, and C. M. Lewis"
+    year: 2026
+    title: "\"I can't do four things at once\": Deaf Students' Experiences With and Recommendations for Improving the Accessibility of CS Lectures and Live Coding"
+    venue: "Proceedings of the ACM Conference on International Computing Education Research (ICER 2026)"
+
+  - authors: "C. Perdriau, B. Agyara, C. M. Lewis"
+    year: 2026
+    title: "Extracurricular Activities Predict CS Internship Attainment"
+    venue: "Proceedings of the 57th ACM Technical Symposium on Computer Science Education (SIGCSE 2026)"
+
+  - authors: "V. Ojha, A. Watkins, C. Perdriau, C. M. Lewis"
+    year: 2026
+    title: "Transparent Teaching"
+    venue: "Proceedings of the 57th ACM Technical Symposium on Computer Science Education (SIGCSE 2026)"
+    note: "Workshop"
+
+  - authors: "C. Perdriau, K. George, C. M. Lewis"
+    year: 2025
+    title: "Exploring a Specific Microaggression's Influence on CS Students' Self-Efficacy, Belonging, and Persistence"
+    venue: "Proceedings of the 56th ACM Technical Symposium on Computer Science Education (SIGCSE 2025)"
+
+  - authors: "C. Perdriau, M. Solomon, A. Ko"
+    year: 2024
+    title: "Recruiting Practices in Informal CS Learning"
+    venue: "ACM Transactions on Computing Education (TOCE 2024)"
+    url: "https://doi.org/10.1145/3688829"
+
+  - authors: "C. Perdriau, V. Ojha, B. Lagesse, and C. M. Lewis"
+    year: 2024
+    title: "The Diversity-Hire Narrative in CS: Sources, Impacts, and Responses"
+    venue: "Proceedings of the 2024 ACM Special Interest Group on Computer Science Education (SIGCSE 2024)"
+
+  - authors: "V. Ojha, A. Watkins, C. Perdriau, K. Isenegger, and C. M. Lewis"
+    year: 2024
+    title: "Instructional Transparency: Just to Be Clear, It's a Good Thing"
+    venue: "Proceedings of the 2024 ACM Conference on International Computing Education Research (ICER 2024)"
+    note: "Honorable mention for best paper"
+
+  - authors: "V. Ojha, C. Perdriau, B. Lagesse, and C. M. Lewis"
+    year: 2023
+    title: "Computing Specializations: Perceptions of AI and Cybersecurity Among CS Students"
+    venue: "Proceedings of the 2023 ACM Special Interest Group on Computer Science Education (SIGCSE 2023)"
+
+  - authors: "A. Oleson, M. Solomon, C. Perdriau, & A. J. Ko"
+    year: 2022
+    title: "Teaching Inclusive Design Skills with the CIDER Assumption Elicitation Technique"
+    venue: "ACM Transactions on Computer-Human Interaction (TOCHI 2022)"
+
+  - authors: "L. Letaw, R. Garcia, H. Garcia, C. Perdriau, M. Burnett"
+    year: 2021
+    title: "Changing the Online Climate via the Online Students: Effects of Three Curricular Interventions on Online CS Students' Inclusivity"
+    venue: "ACM International Computing Education Research Conference (ICER 2021)"
+
+  - authors: "C. Hilderbrand, C. Perdriau, L. Letaw, J. Emard, Z. Steine-Hanson, M. Burnett, A. Sarma"
+    year: 2020
+    title: "Engineering Gender-Inclusivity into Software: Ten Teams' Tales from the Trenches"
+    venue: "Proceedings of the 42nd International Conference on Software Engineering (ICSE 2020)"
+
+  - authors: "T. Mai, R. Khanna, J. Dodge, J. Irvine, K. Lam, Z. Lin, N. Kiddle, E. Newman, S. Raja, C. Matthews, C. Perdriau, M. Burnett, and A. Fern"
+    year: 2020
+    title: "Keeping it \"Organized and Logical\": After-Action Review for AI (AAR/AI)"
+    venue: "Proceedings of the 25th International Conference on Intelligent User Interfaces (IUI 2020)"
+
+  - authors: "A. Oleson, C. J. Mendez, Z. Steine-Hanson, C. Hilderbrand, C. Perdriau, M. Burnett, and A. J. Ko"
+    year: 2018
+    title: "Pedagogical Content Knowledge for Teaching Inclusive Design"
+    venue: "Proceedings of the 2018 ACM Conference on International Computing Education Research (ICER 2018)"
+
+under_review:
+  - authors: "O. Wang, Y. Shen, C. Perdriau, K. Zhou, & R. Adler"
+    title: "FELT-MX: A Framework for Embodied Layering of Touch in Multimodal Music Experiences for DHH Users"
+    venue: "Under review"
+
+  - authors: "H. Cheng, S. Chen, C. Perdriau, & Y. Huang"
+    title: "LLM-Powered AI Tutors with Personas for d/Deaf and Hard-of-Hearing Online Learners"
+    venue: "Under review"
+
+presentations:
+  - authors: "C. Perdriau"
+    year: 2024
+    title: "Rethinking Computer Science Education: Making it Accessible for Deaf and Hard of Hearing Students"
+    venue: "Talk, 26th ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '24)"
+
+  - authors: "K. George, M. Saffar-Perez, and C. Perdriau"
+    year: 2023
+    title: "Addressing the Faculty Shortage in Computing: Examining Interest in the Computing Professoriate"
+    venue: "American Educational Research Association (AERA) annual meeting"
+
+  - authors: "K. Isenegger, C. Perdriau, P. Bruno, and C. M. Lewis"
+    year: 2023
+    title: "Evidence for Devaluation Theory across CS job occupations"
+    venue: "American Educational Research Association (AERA) annual meeting"
+
+  - authors: "C. Perdriau and M. Burnett"
+    year: 2021
+    title: "The Emerging SESMag"
+    venue: "Talk, Pacific Northwest National Laboratory (virtual)"

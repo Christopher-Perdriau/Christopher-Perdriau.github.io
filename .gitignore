@@ -1,0 +1,12 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+.bundle/
+.DS_Store
+
+# Raw source documents (research/teaching statements, original CV, original
+# headshot, resume-building notes) -- used to write site content, not
+# published as part of the site itself.
+source-materials/
