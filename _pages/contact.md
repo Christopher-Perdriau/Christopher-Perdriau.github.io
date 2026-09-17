@@ -1,15 +1,15 @@
 ---
 title: "Contact"
 permalink: /contact/
-excerpt: "Email, GitHub, and Google Scholar."
+excerpt: "Email and Google Scholar."
 ---
 
-The fastest way to reach me is email. My address is assembled below via JavaScript to cut down on spam-bot scraping; if you have JavaScript disabled, my GitHub and Google Scholar profiles both have working contact paths.
+The fastest way to reach me is email. My address is assembled below via JavaScript to cut down on spam-bot scraping; if you have JavaScript disabled, my Google Scholar profile has a working contact path.
 
 <p>
   <strong>Email:</strong>
   <span id="contact-email">
-    <noscript>enable JavaScript to reveal, or reach me via GitHub/Google Scholar below</noscript>
+    <noscript>enable JavaScript to reveal, or reach me via Google Scholar below</noscript>
   </span>
 </p>
 
@@ -28,5 +28,4 @@ The fastest way to reach me is email. My address is assembled below via JavaScri
   })();
 </script>
 
-- **GitHub:** [github.com/Christopher-Perdriau](https://github.com/Christopher-Perdriau)
 - **Google Scholar:** [scholar.google.com/citations?user=-cDZEO8AAAAJ](https://scholar.google.com/citations?user=-cDZEO8AAAAJ&hl=en)

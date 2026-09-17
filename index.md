@@ -7,7 +7,7 @@ header:
   overlay_filter:
 ---
 
-I'm a PhD candidate in Computer Science at the University of Illinois Urbana-Champaign (advisor: [Colleen M. Lewis](https://www.colleenmlewis.com/)), graduating in 2026. My research is in CS education and accessibility — I study and design for the experiences of Deaf and Hard-of-Hearing students in computing courses, and more broadly how CS classrooms and hiring pipelines include or exclude students. I grew up in the Deaf community with Deaf parents, which motivates and positions me to do this work. I hold a B.S. in Computer Science (minor in Psychology) from Oregon State University, where I worked with Margaret Burnett on inclusive software design (GenderMag).
+I'm a PhD candidate in Computer Science at the University of Illinois Urbana-Champaign (advisor: Colleen M. Lewis), graduating in 2026. My research is in CS education and accessibility — I study and design for the experiences of Deaf and Hard-of-Hearing students in computing courses, and more broadly how CS classrooms and hiring pipelines include or exclude students. I grew up in the Deaf community with Deaf parents, which motivates and positions me to do this work. I hold a B.S. in Computer Science (minor in Psychology) from Oregon State University, where I worked with Margaret Burnett on inclusive software design (GenderMag).
 
 Alongside research, I've also worked as a software engineer, most recently building a client-side analytics feature for a multifamily energy-use dashboard (Svelte / NestJS / AWS) — see the [Projects](/projects/) page. I'm on the market for research-track academic positions (faculty, postdoc, research scientist) as well as industry roles in software engineering and applied research.
 
@@ -17,7 +17,7 @@ Alongside research, I've also worked as a software engineer, most recently build
 - [Teaching & Mentoring](/teaching/) — course design, TA work, and mentoring
 - [Projects](/projects/) — an industry-facing software engineering project
 - [CV](/cv/) — downloadable PDF
-- [Contact](/contact/) — email, GitHub, Google Scholar
+- [Contact](/contact/) — email, Google Scholar
 
 ## Education
 
