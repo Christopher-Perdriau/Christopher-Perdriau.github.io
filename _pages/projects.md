@@ -25,5 +25,3 @@ Rather than build the AI layer first, the team's feasibility plan called for a t
 Given the project's strict data-handling requirements, credential hygiene was part of the deliverable, not an afterthought: real secrets (API keys, database credentials, JWT secrets) were kept entirely outside both project directories, symlinked in only when actively testing and removed immediately after, and I set up OS-level sandboxing for AI-assisted coding tool use with explicit deny rules on credential files and directories — verified independently rather than assumed to work from configuration alone.
 
 **Outcome:** Phase 1a shipped as a standalone, working feature — usable on its own, and ready to serve as the foundation for the natural-language query layer planned on top of it.
-
-This project is a useful counterweight to an otherwise research-heavy CV: it shows full-stack engineering, architectural judgment (shipping a deterministic MVP before the riskier AI layer), and comfort working with cloud infrastructure.
