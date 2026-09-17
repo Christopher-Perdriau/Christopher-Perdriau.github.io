@@ -1,5 +1,5 @@
 ---
-title: "Christopher Perdriau"
+title: "About"
 excerpt: "PhD candidate in Computer Science researching accessibility and inclusive design in CS education."
 permalink: /
 header:
