@@ -10,7 +10,7 @@ excerpt: "Downloadable CV and a quick summary."
 ## Quick summary
 
 **Education**
-- Ph.D., Computer Science, University of Illinois Urbana-Champaign — 2026 (Advisor: Colleen M. Lewis)
+- Ph.D., Computer Science, University of Illinois Urbana-Champaign — defended April 2026, degree conferred December 2026 (Advisor: Colleen M. Lewis)
 - B.S., Computer Science, minor in Psychology, Oregon State University — 2021 (Advisor: Margaret M. Burnett)
 
 **Awards**

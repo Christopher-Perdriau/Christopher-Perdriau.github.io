@@ -53,8 +53,9 @@ social:
 author:
   name: "Christopher Perdriau"
   avatar: "/assets/images/headshot.jpg"
-  bio: "PhD candidate, Computer Science, UIUC. Researching accessibility &amp; inclusive design in CS education."
+  bio: "PhD candidate, Computer Science, UIUC. CODA, native ASL user. Researching accessibility &amp; inclusive design in CS education."
   location: "Urbana-Champaign, IL"
+  linkedin: "christopher-perdriau-a79a59149"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
