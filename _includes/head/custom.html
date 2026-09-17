@@ -1,0 +1,20 @@
+<!--
+  Enlarges the sidebar profile photo. The theme's default caps it at
+  110px on wide screens and squeezes it into a 36px inline avatar on
+  narrow/mobile screens; both are overridden here to make the photo
+  the visual anchor of the sidebar it's meant to be.
+-->
+<style>
+  .author__avatar {
+    width: 150px !important;
+    height: 150px !important;
+  }
+  .author__avatar img {
+    max-width: 150px !important;
+  }
+  @media screen and (min-width: 925px) {
+    .author__avatar img {
+      max-width: 225px !important;
+    }
+  }
+</style>
