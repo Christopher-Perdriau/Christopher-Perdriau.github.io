@@ -40,4 +40,12 @@ Some feedback from student evaluations:
 - **Instructor, Upward Bound** — Summer 2022. Taught a federally funded introductory CS course to first-generation, low-income high schoolers (variables, loops, lists, functions, in Python via TunePad).
 - **InclusiveMag Instructor** — Oregon State University, 2018–2021. Taught the GenderMag inclusive-design method to student software teams.
 
+## Service
+
+- **Broadening Participation in Computing (BPC) Outreach Committee** — UIUC, Fall 2022–2024. Helped plan and present CS-related activities at local K-12 schools.
+- **Broadening Participation in Computing (BPC) Engagement Committee** — UIUC, Spring 2022. Planned Town Hall meetings and encouraged participation in BPC and inclusive-teaching training.
+- **Outreach Coordinator, American Sign Language Club** — UIUC, Fall 2021–Fall 2024. Led ASL tutorials and coordinated events connecting the local Deaf community with university students.
+- **CS Education Reading Group** — UIUC, Fall 2021–present. Weekly discussion of current CS-education research; mentors newer graduate students on writing constructive paper reviews.
+- **Radio DJ, KBVR-FM** — Oregon State University, Fall 2019–Summer 2021. Co-hosted an educational radio show on musicians' careers and their impact on the industry.
+
 A full list of teaching, mentoring, and service is on the [CV](/cv/).

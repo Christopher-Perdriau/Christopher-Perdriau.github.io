@@ -22,8 +22,12 @@ excerpt: "Downloadable CV and a quick summary."
 
 **Teaching** — Instructor of Record for a newly designed course, *Accessibility, Technology, and Society* (UIUC, Fall 2026); TA roles in Introductory CS and User Interface Design; multiple mentoring roles. Details on the [Teaching](/teaching/) page.
 
-**Technical skills** — R, Python, statistical analysis and data visualization; accessibility and inclusive design; usability engineering and human-centered design; qualitative and quantitative research methods (interviews, surveys, thematic analysis, regression modeling).
+**Quantitative methods** — Large-scale, multi-institutional survey analysis (samples up to N=14,155); linear regression, linear probability models, and moderated regression with interaction terms; fixed-effects modeling (institution, cohort year, major); exploratory factor analysis and reliability testing (Cronbach's alpha); collinearity diagnostics (VIF) and power analysis; R, Python.
 
-**Service** — Broadening Participation in Computing (BPC) Outreach and Engagement Committees (UIUC); Outreach Coordinator, American Sign Language Club (UIUC); CS Education reading group facilitator.
+**Qualitative & mixed methods** — Semi-structured interviews, thematic analysis, longitudinal field studies, heuristic evaluation, A/B testing, inter-rater reliability.
+
+**Design & accessibility** — Accessibility and inclusive design (WCAG); usability engineering and human-centered design; prototyping (Figma).
+
+**Service** — Broadening Participation in Computing (BPC) Outreach and Engagement Committees (UIUC); Outreach Coordinator, American Sign Language Club (UIUC); CS Education reading group facilitator. Full list on the [Teaching](/teaching/) page.
 
 For complete details on service, presentations, and skills, see the full CV above.

@@ -12,6 +12,8 @@ Beyond this, I've collaborated with faculty across institutions to design access
 
 Going forward, I plan to pursue three lines of research: (1) evaluating accessible, student-informed teaching practices in CS classrooms; (2) identifying the needs of and barriers faced by faculty adopting accessible pedagogy; and (3) participatory design of AI systems with Deaf people. The third line includes a planned audit of AI-driven hiring and résumé-screening platforms for bias against signals of Deaf identity — ASL fluency, Deaf schools, Deaf community involvement — extending my accessibility research directly into the domain of algorithmic hiring decisions.
 
+I also have a standing thread of work on AI itself, spanning explainability, education, and accessible design. In 2020, I helped adapt the U.S. Army's After-Action Review process into AAR/AI, a structured method for helping people assess reinforcement-learning agents' decisions in a qualitative study. In 2023, I studied how CS undergraduates form — often inaccurate — perceptions of AI and cybersecurity as career specializations, and how those perceptions may discourage students from underrepresented groups from pursuing either field. Most recently, I've helped design and evaluate LLM-powered AI tutors with personas for Deaf and Hard-of-Hearing learners, studying how DHH students evaluate an AI system's cultural knowledge and community position.
+
 ---
 
 ## Published / Accepted
