@@ -55,7 +55,6 @@ author:
   avatar: "/assets/images/headshot.jpg"
   bio: "PhD candidate, Computer Science, UIUC. Researching accessibility &amp; inclusive design in CS education."
   location: "Urbana-Champaign, IL"
-  github: "Christopher-Perdriau"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"

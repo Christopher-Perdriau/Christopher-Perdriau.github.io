@@ -56,6 +56,26 @@
         </li>
       {% endif %}
 
+      <!--
+        Email link assembled client-side (rather than via author.email
+        above) to avoid a plaintext mailto: address in the static HTML
+        served to scrapers. Matches the approach used on /contact/.
+      -->
+      <li>
+        <a href="#" id="sidebar-email-link" rel="me" class="u-email">
+          <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span>
+        </a>
+      </li>
+      <script>
+        (function () {
+          var el = document.getElementById('sidebar-email-link');
+          if (!el) return;
+          var addr = 'christopherperdriau99' + '@' + 'gmail.com';
+          el.setAttribute('href', 'mailto:' + addr);
+          el.setAttribute('aria-label', 'Email ' + addr);
+        })();
+      </script>
+
       {% if author.keybase %}
         <li>
           <a href="https://keybase.io/{{ author.keybase }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
